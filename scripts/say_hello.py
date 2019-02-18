@@ -12,6 +12,7 @@ def hello(name):
 def main():
     print(hello_universe())
     print(hello('MT student'))
+	print(hello_world())
 
 if __name__ == '__main__':
     main()
